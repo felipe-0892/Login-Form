@@ -26,13 +26,12 @@
   - <a href="#" target="_blank"><img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a> Para estilizar alguns elementos para tornar a interface mais amigável.
   - <a href="#" target="_blank"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> Para interatividade, como validação de formulários e buscas dinâmicas.
 
-### Front-end
+- **Backend**:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- #### recomendo usar essas tecnologias
+  - <a href="#" target="_blank"><img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a> Utilizado para processar as requisições, gerenciar a lógica de negócio e interagir com o banco de dados.
+  - <a href="#" target="_blank"><img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a> Banco de dados relacional utilizado para armazenar os registros dos pacientes.
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Back-end (opcional)
 
