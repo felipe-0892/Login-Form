@@ -51,13 +51,15 @@ login-form/
 #### Tecnologias Utilizadas
 
 - ✔ **UI/UX**:
-  - <a href="#" target="_blank"><img align="center" alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> Para estruturar as páginas da interface de usuário.
+  - <a href="#" target="_blank"><img align="center" alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> Para estruturar o formulário e cria uma interface agradável para o usuário final.
+
 
 - ✔ **Frontend**:
   - <a href="#" target="_blank"><img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a> Para estruturar as páginas da interface de usuário.
   - <a href="#" target="_blank"><img align="center" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a> para estilizar as páginas já contendo a responsividade
   - <a href="#" target="_blank"><img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a> Para estilizar alguns elementos para tornar a interface mais amigável.
   <!-- - <a href="#" target="_blank"><img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> Para interatividade, como validação de formulários e buscas dinâmicas. -->
+
 
 - **Backend**:
 
