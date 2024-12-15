@@ -1,6 +1,8 @@
 
 # Login Form ✅
 
+### Este projeto implementa um formulário de login simples para autenticação de usuários. Ele pode ser usado como base para aplicações web que exigem login, como painéis de controle, sistemas de gerenciamento e outros tipos de software.
+
 ![Exemplo de Formulário de Login](image.png)
 
 Estrutura do Projeto
@@ -33,9 +35,6 @@ login-form/
     |-- config.php     # Configuração de conexão ao banco de dados
 
 ```
-
-
-### Este projeto implementa um formulário de login simples para autenticação de usuários. Ele pode ser usado como base para aplicações web que exigem login, como painéis de controle, sistemas de gerenciamento e outros tipos de software.
 
 #### Funcionalidades para qual foi criado 😎
 
