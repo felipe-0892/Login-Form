@@ -8,7 +8,7 @@
 
 #### Funcionalidades para qual foi criado 😎
 
-- Entrada para nome de usuário (username ou e-mail).
+- Entrada para nome de usuário (username ou password).
 
 - Entrada para senha com mascaramento dos caracteres.
 
