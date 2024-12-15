@@ -50,6 +50,9 @@ login-form/
 
 #### Tecnologias Utilizadas
 
+- ✔ **UI/UX**:
+- <a href="#" target="_blank"><img align="center" alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> Para estruturar as páginas da interface de usuário.
+
 - ✔ **Frontend**:
   - <a href="#" target="_blank"><img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a> Para estruturar as páginas da interface de usuário.
   - <a href="#" target="_blank"><img align="center" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a> para estilizar as páginas já contendo a responsividade
