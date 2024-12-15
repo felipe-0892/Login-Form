@@ -1,0 +1,15 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devForm": "npx tailwindcss -i ./style/input.css -o ./style/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}
