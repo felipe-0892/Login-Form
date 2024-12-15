@@ -51,7 +51,7 @@ login-form/
 #### Tecnologias Utilizadas
 
 - ✔ **UI/UX**:
-  - <a href="#" target="_blank"><img align="center" alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> Para estruturar o formulário e cria uma interface agradável para o usuário final.
+  - <a href="#" target="_blank"><img align="center" alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> Para estruturar o formulário e criar uma interface agradável para o usuário final.
 
 
 - ✔ **Frontend**:
