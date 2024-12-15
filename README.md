@@ -3,6 +3,37 @@
 
 ![Exemplo de Formulário de Login](image.png)
 
+Estrutura do Projeto
+
+```
+login-form/
+|-- assets/
+    |-- icon/
+        |-- facebook.png
+        |-- linkedin.png
+        |-- social.png
+    |-- astronauta.png
+    |-- instagram.png
+|-- node_modules/
+|-- style/
+    |-- input.css      # Arquivos de estilização
+    |-- output.css     # Arquivos de estilização
+|-- LICENSE
+|-- README.md
+|-- image.png
+|-- index.html         # Interface principal do formulário de login
+|-- package-lock.json          
+|-- package.json
+|-- tailwind.config.js
+
+# parte opcional do projeto
+
+|-- backend/
+    |-- login.php      # Lógica de autenticação no servidor
+    |-- config.php     # Configuração de conexão ao banco de dados
+
+```
+
 
 ### Este projeto implementa um formulário de login simples para autenticação de usuários. Ele pode ser usado como base para aplicações web que exigem login, como painéis de controle, sistemas de gerenciamento e outros tipos de software.
 
@@ -78,36 +109,6 @@ php -S localhost:8000
 
 ### Não foram feitos testes de validação, apenas foi criado a parte  visual.
 
-Estrutura do Projeto
-
-```
-login-form/
-|-- assets/
-    |-- icon/
-        |-- facebook.png
-        |-- linkedin.png
-        |-- social.png
-    |-- astronauta.png
-    |-- instagram.png
-|-- node_modules/
-|-- style/
-    |-- input.css      # Arquivos de estilização
-    |-- output.css     # Arquivos de estilização
-|-- LICENSE
-|-- README.md
-|-- image.png
-|-- index.html         # Interface principal do formulário de login
-|-- package-lock.json          
-|-- package.json
-|-- tailwind.config.js
-
-# parte opcional do projeto
-
-|-- backend/
-    |-- login.php      # Lógica de autenticação no servidor
-    |-- config.php     # Configuração de conexão ao banco de dados
-
-```
 ## Contribuição
 
 * Se quiser contribuir para este projeto:
